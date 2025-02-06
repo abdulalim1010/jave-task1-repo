@@ -1,5 +1,7 @@
 // console.log(8>=8)
-if (13 < 10) {
+
+var wight = 40;
+if (wight>=50) {
   console.log('my md abdul alim'); 
 
 
